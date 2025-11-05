@@ -12,15 +12,11 @@
 
 ### 🤖 Technical Skills
 
-**Programming Languages:** Python, SQL, Java, C, C++
-
-**Machine Learning & Data Science:** Data Preprocessing, Model Training, Evaluation, Feature Engineering,exploratory data analysis (EDA),
-
+**Programming Languages:** Python, SQL, Java, C, C++, JavaScript
+**Machine Learning & Data Science:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Model Training, and Model Evaluation
 **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
-
 **Databases:** MySQL, MongoDB
-
-**Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, Excel
+**Tools & Environments:** Jupyter Notebook, Google Colab, Anaconda, VS Code, Spyder
 
 <!--
 **uzair-javaid/uzair-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
