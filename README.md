@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=UZAIR+JAVAID;&center=true&size=30&font=Fira+Code">
+  </a>
+</h1>
+
 
 <!--
 **uzair-javaid/uzair-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
