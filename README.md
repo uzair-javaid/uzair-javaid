@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<p align="center">
+  Final-year Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Data Science. Skilled in Python, SQL, and data analytics, with experience in developing intelligent and data-driven solutions.
+</p>
+
 
 <!--
 **uzair-javaid/uzair-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
