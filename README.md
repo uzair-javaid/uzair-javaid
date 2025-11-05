@@ -12,23 +12,40 @@
 
 ### 🤖 Technical Skills
 
-**Programming Languages:** Python, SQL, Java, C, C++, JavaScript
-**Machine Learning & Data Science:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Model Training, and Model Evaluation
-**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
-**Databases:** MySQL, MongoDB
-**Tools & Environments:** Jupyter Notebook, Google Colab, Anaconda, VS Code, Spyder
+- **Programming Languages:** Python, C, Java, C++, SQL, JavaScript 
+- **Machine Learning & Data Science:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Model Training, Model Evaluation
+- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Databases:** MySQL, MongoDB  
+- **Tools & Environments:** Jupyter Notebook, Google Colab, Anaconda, VS Code, Spyder
+  
+---
+### 🧠 Research Interests
 
-<!--
-**uzair-javaid/uzair-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Machine Learning  
+- Artificial Intelligence  
+- Data Analytics  
+- Deep Learning  
+- Natural Language Processing (NLP)
+- Explainable Artificial Intelligence (XAI)
+  
+---
 
-Here are some ideas to get you started:
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,vscode,mongodb,flask,html,css,javascript,bootstrap,github,git" />
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Certifications
+
+- **Data Science:Python for Data Analysis Full Bootcamp (Udemy)**
+- **Complete Data Science,Machine Learning,DL,NLP Bootcamp (In Progress)**
+- **introduction to prompt Engineering with GitHub Copilot – Simplilearn SkillUp (Microsoft Collaboration)**
+- **Python Project for Beginners (Great Learning)**
+- **Getting Started with Microsoft Excel (coursera)**
+  
+
+
