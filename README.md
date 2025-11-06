@@ -60,6 +60,10 @@
   <p>🔢  Developed a deep learning model using TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset with ~98% accuracy. Includes separate scripts for model training and prediction visualization.</p>
 </details>
 <details>
+  <summary><b>🔹CIFAR-10 Image Classification </b></summary>
+  <p>🧠 Trained a Convolutional Neural Network using TensorFlow and Keras to classify 10 object categories from the CIFAR-10 dataset with high accuracy.</p>
+</details>
+<details>
   <summary><b>🔹Iris-Flower-Classification </b></summary>
   <p>🌸 Iris Flower Classification — Built a machine learning model using Python to classify iris flowers into species (Setosa, Versicolor, Virginica) based on petal and sepal features using supervised learning techniques.</p>
 </details>
