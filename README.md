@@ -92,7 +92,7 @@
 
 <details>
   <summary><b>🔹PyBot---Simple-Python-Chatbot</b></summary>
-  <p>💬 PyBot — Simple Python Chatbot — Created a basic rule-based chatbot using Python for interactive text responses.</p>
+  <p>💬 Created a basic rule-based chatbot using Python for interactive text responses.</p>
 </details>
 
 ---
