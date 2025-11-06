@@ -51,9 +51,12 @@
 
 <details>
   <summary><b>🔹Cat-vs-Dog-Image-Classification-using CNN</b></summary>
-  <p>💼 🐱🐶 Cat vs Dog Image Classification using CNN — Trained a CNN model using TensorFlow and Keras to classify cat and dog images from the Kaggle dataset with high accuracy.</p>
+  <p>🐱🐶 Cat vs Dog Image Classification using CNN — Trained a CNN model using TensorFlow and Keras to classify cat and dog images from the Kaggle dataset with high accuracy.</p>
 </details>
-
+<details>
+  <summary><b>🔹Handwritten Digit Recognition (MNIST) </b></summary>
+  <p>🔢  Developed a deep learning model using TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset with ~98% accuracy. Includes separate scripts for model training and prediction visualization.</p>
+</details>
 <details>
   <summary><b>🔹Iris-Flower-Classification </b></summary>
   <p>🌸 Iris Flower Classification — Built a machine learning model using Python to classify iris flowers into species (Setosa, Versicolor, Virginica) based on petal and sepal features using supervised learning techniques.</p>
