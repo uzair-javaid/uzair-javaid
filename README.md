@@ -12,11 +12,11 @@
 
 ### 🧠 About Me  
 🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.57)  
-🌍 Based in **Srinagar, Jammu and Kashmir, India**  
-💡 Passionate about **Machine Learning, Data Science, and AI-driven innovation**  
-📫 Reach me at **(uzair3871@gmail.com)**  
+🌍 Location **Anantnag, Jammu and Kashmir, India**  
+💡 Passionate about **Machine Learning, Data Science, and AI-driven innovation**   
 
 ---
+
 ### 🤖 Technical Skills
 
 - **Programming Languages:** Python, C, Java, C++, SQL, JavaScript 
@@ -26,6 +26,7 @@
 - **Tools & Environments:** Jupyter Notebook, Google Colab, Anaconda, VS Code, Spyder
   
 ---
+
 ### 🧠 Research Interests
 
 - Machine Learning  
@@ -45,6 +46,7 @@
 </div>
 
 ---
+
 ### 🚀 Featured Projects  
 
 <details>
@@ -84,6 +86,7 @@
 
 ---
 
+💡 **Cool AI Fact:** The term "Artificial Intelligence" was coined in 1956 at the Dartmouth Conference — the same year the first AI program was written to prove mathematical theorems!
 
   
 
