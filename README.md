@@ -10,6 +10,13 @@
 
 ---
 
+### 🧠 About Me  
+🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.57)  
+🌍 Based in **Srinagar, Jammu and Kashmir, India**  
+💡 Passionate about **Machine Learning, Data Science, and AI-driven innovation**  
+📫 Reach me at **(uzair3871@gmail.com)**  
+
+---
 ### 🤖 Technical Skills
 
 - **Programming Languages:** Python, C, Java, C++, SQL, JavaScript 
@@ -36,6 +43,34 @@
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,vscode,mongodb,flask,html,css,javascript,bootstrap,github,git" />
     
 </div>
+
+---
+### 🚀 Featured Projects  
+
+<details>
+  <summary><b>🔹 cat dog classification </b></summary>
+  <p>💼 Exploring Python, React, and Scikit-learn to develop SmartHire — an AI-based hiring assistant for automated screening and candidate evaluation.</p>
+</details>
+
+<details>
+  <summary><b>🔹stock price prediction </b></summary>
+  <p>🏠 Built with PHP, HTML, CSS, JavaScript, Bootstrap, and PHPMailer to automate room allocation and resident operations.</p>
+</details>
+
+<details>
+  <summary><b>🔹pybot-python simple chatbot </b></summary>
+  <p>📚 Developed using PHP, MySQL, and Bootstrap for efficient cataloging and tracking of library resources.</p>
+</details>
+
+<details>
+  <summary><b>🔹student score predictor</b></summary>
+  <p>📈 Created a regression model using Python and Scikit-learn to predict student academic performance.</p>
+</details>
+
+<details>
+  <summary><b>🔹s</b></summary>
+  <p>🦠 Conducted data analysis using pandas and matplotlib to visualize global trends, case growth, and recovery rates.</p>
+</details>
 
 ---
 
