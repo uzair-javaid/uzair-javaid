@@ -48,28 +48,28 @@
 ### 🚀 Featured Projects  
 
 <details>
-  <summary><b>🔹 cat dog classification </b></summary>
-  <p>💼 Exploring Python, React, and Scikit-learn to develop SmartHire — an AI-based hiring assistant for automated screening and candidate evaluation.</p>
+  <summary><b>🔹Cat-vs-Dog-Image-Classification-using CNN</b></summary>
+  <p>💼 🐱🐶 Cat vs Dog Image Classification using CNN — Trained a CNN model using TensorFlow and Keras to classify cat and dog images from the Kaggle dataset with high accuracy.</p>
 </details>
 
 <details>
-  <summary><b>🔹stock price prediction </b></summary>
-  <p>🏠 Built with PHP, HTML, CSS, JavaScript, Bootstrap, and PHPMailer to automate room allocation and resident operations.</p>
+  <summary><b>🔹Iris-Flower-Classification </b></summary>
+  <p>🌸 Iris Flower Classification — Built a machine learning model using Python to classify iris flowers into species (Setosa, Versicolor, Virginica) based on petal and sepal features using supervised learning techniques.</p>
 </details>
 
 <details>
-  <summary><b>🔹pybot-python simple chatbot </b></summary>
-  <p>📚 Developed using PHP, MySQL, and Bootstrap for efficient cataloging and tracking of library resources.</p>
+  <summary><b>🔹Stock-Price-Prediction </b></summary>
+  <p>📈 Stock Price Prediction — Predicted future stock prices using Linear Regression in Python.</p>
 </details>
 
 <details>
-  <summary><b>🔹student score predictor</b></summary>
+  <summary><b>🔹Student-Score-Predictor</b></summary>
   <p>📈 Created a regression model using Python and Scikit-learn to predict student academic performance.</p>
 </details>
 
 <details>
-  <summary><b>🔹s</b></summary>
-  <p>🦠 Conducted data analysis using pandas and matplotlib to visualize global trends, case growth, and recovery rates.</p>
+  <summary><b>🔹PyBot---Simple-Python-Chatbot</b></summary>
+  <p>💬 PyBot — Simple Python Chatbot — Created a basic rule-based chatbot using Python for interactive text responses.</p>
 </details>
 
 ---
