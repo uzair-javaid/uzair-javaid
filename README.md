@@ -41,7 +41,7 @@
   
 ---
 
-### 🧠 Research Interests
+### 🔬 Research Interests
 
 - Machine Learning  
 - Artificial Intelligence  
