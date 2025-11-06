@@ -16,6 +16,18 @@
 🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.57)  
 🌍 Location **Anantnag, Jammu and Kashmir, India**  
 💡 Passionate about **Machine Learning, Data Science, and AI-driven innovation**   
+ ##  Connect with Me
+
+<p align="center">
+  <a href="mailto:uzair3871@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="90" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/uzair-javaid98">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="90" />
+  </a>
+</p>
+
 
 ---
 
