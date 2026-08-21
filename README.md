@@ -7,7 +7,7 @@
 ---
 
 
-<h3 align="center">🎓 Final-Year CSE |💻 Future Data Scientist|🔍 Research & ML Enthusiast</h3>
+<h3 align="center">🎓  CSE |💻 Future Data Scientist|🔍 Research & ML Enthusiast</h3>
 
 
 ---
