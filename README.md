@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me  
-🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.57)  
+🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.87)  
 🌍 Location **Anantnag, Jammu and Kashmir, India**  
 💡 Passionate about **Machine Learning, Data Science, and AI-driven innovation**   
  ##  Connect with Me
